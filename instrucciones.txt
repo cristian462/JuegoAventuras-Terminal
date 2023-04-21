@@ -1,0 +1,12 @@
+_____________________________________________________________________________________
+-Has entrado en una mazmorra donde debes vencer la ultima habitacion.
+-Aparecen dos tipos de habitaciones distintas:
+    >Tras vencer la habitacion con enemigo te soltara un objeto aleatorio
+    >Si decides recoger el objeto de la habitacion vacia un enemigo puede aparecer y atacarte por sorpresa
+-Objetos:
+    >No puedes tener mas de una pocion por lo que deberas decidir rapido que hacer con ella
+    >No puedes curarte hasta mas de 10 puntos de vida con la pocion
+    >Te vas equipando con distintas piezas de armas y armadura por lo que son acomulables
+    >Espero que no te encuentres palos, no seran de mucha ayuda
+QUE TENGAS MUCHA SUERTE, A LA AVENTURA!
+______________________________________________________________________________________
